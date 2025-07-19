@@ -4,16 +4,6 @@ This project is a simple, containerized ETL (Extract, Transform, Load) data pipe
 
 The entire process is managed and orchestrated using Docker and Docker Compose, making it portable and easy to run.
 
-## 🏛️ Architecture
-
-The pipeline follows a simple architecture where the script, containerized by Docker, reads from a data source, processes it, and writes to a destination.
-
-![ETL Architecture Diagram](ETL-1.png)
-
-*Note: Make sure you've added your `ETL-1.png` diagram to the root of your repository so it appears here.*
-
----
-
 ## 🛠️ Tech Stack
 
 * **Python**: The core language for the ETL script.
