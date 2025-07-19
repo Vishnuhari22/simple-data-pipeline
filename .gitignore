@@ -1,0 +1,9 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# IDE folders
+.idea/
+
+# Data - It's best practice not to commit data files
+data/
